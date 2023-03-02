@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ajLu2xFz6wkG0Tu3UI1XyRV7h29qImtDw4h1SrbTZZo=",
+  "Source": "AWS.Web",
+  "BasePath": "_content/AWS.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
